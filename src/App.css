@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: white;
+  font-family: "Tahoma", sans-serif;
+  color: #137b80;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.countries .land {
+  fill: #ececec;
+}
+
+.countries .interiors {
+  fill: none;
+  stroke: #d9dfe0;
+}
+
+.worldGraticule .sphere {
+  fill: #fbfbfb;
+}
+
+.worldGraticule .graticule,
+.tick line {
+  fill: none;
+  stroke: #ececec;
+}
+
+circle {
+  fill: #137b80;
+  opacity: 0.3;
+}
+
+.tick text {
+  font-size: 0.5em;
+  fill: #8e8883;
+}
+
+.mark {
+  fill: #137b80;
+}
+
+.axis-label {
+  font-size: 0.5em;
+  fill: #8e8883;
+}
+
+
+
