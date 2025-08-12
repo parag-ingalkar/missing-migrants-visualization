@@ -1,9 +1,9 @@
 {
-  "name": "react-missing-migrants-visualization",
+  "name": "missing-migrants-visualization",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://parag-ingalkar.github.io/missing-migrants-visualization",
+  "homepage": "https://parag-ingalkar.github.io/missing-migrants-visualization/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
